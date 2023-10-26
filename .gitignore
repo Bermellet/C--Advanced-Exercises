@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+C\+\+ Advanced Exercises/.vs
+
+C\+\+ Advanced Exercises/C\+\+ Advanced Exercises/Debug
